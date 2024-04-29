@@ -3,7 +3,7 @@ Marie &amp; Ced wedding table 0111 2024-04-27
 
 ### Collected documentation during the wedding diner
 - Arduino IDE https://www.arduino.cc/en/software
-- ESP8266 chip environment https://github.com/esp8266/Arduino
+- ESP8266 chip environment https://github.com/esp8266/Arduino & https://arduino.esp8266.com/stable/package_esp8266com_index.json
 - LiquidCrystal Arduino library for I2C LCD displays https://github.com/johnrickman/LiquidCrystal_I2C/tree/master
 - I2C debug search https://forum.arduino.cc/t/i2c-send-mulitple-values-from-a-device/1014336
 - PWM signal documentation https://passionelectronique.fr/pwm-arduino/
@@ -12,3 +12,5 @@ Marie &amp; Ced wedding table 0111 2024-04-27
 ### Live debugging moment
 
 ![IMG_4476](https://github.com/beaujean/ArduinoWedding/assets/5068318/a8d796b3-1bf6-41f8-8f2d-8ea50b9ff61d)
+
+### JiLPi & Auré
